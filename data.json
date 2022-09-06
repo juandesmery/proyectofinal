@@ -1,0 +1,32 @@
+[
+{
+    "nombre":"Samsung Galaxy A-30",
+    "precio":40000,
+    "stock":10
+},
+{
+    "nombre":"Samsung Galaxy B-52",
+    "precio":5000,
+    "stock":15
+},
+{
+    "nombre":"Samsung Galaxy C-72",
+    "precio":7000,
+    "stock":8
+},
+{
+    "nombre":"Reneaul Clio",
+    "precio":799999,
+    "stock":577
+},
+{
+    "nombre":"Fiat Punto",
+    "precio":879999,
+    "stock":220
+},
+{
+    "nombre":"Ford Fiesta",
+    "precio":999999,
+    "stock":317
+}
+]
